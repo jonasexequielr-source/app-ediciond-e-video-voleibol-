@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VolleyMind AI",
+  "description": "Una plataforma avanzada de análisis de voleibol. Sube tus videos, registra acciones (ataques, defensas) y genera mapas de calor. Potenciado por Gemini para análisis táctico y Veo para generación de jugadas.",
+  "requestFramePermissions": []
+}
